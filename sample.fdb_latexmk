@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1697712195 "c:/Users/moonw/Documents/Digital Humanities/sample.tex" "sample.pdf" "sample" 1697712204 2
+["pdflatex"] 1697712238 "c:/Users/moonw/Documents/Digital Humanities/sample.tex" "sample.pdf" "sample" 1697712245 2
   "c:/Users/moonw/Documents/Digital Humanities/sample.tex" 1697117844 3511 5e8ca15980f131f5882929aefc581b75 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1690896291 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1690894642 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -78,9 +78,9 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1690903387 4687025 676c7d7298543c4303eabe86c426c675 ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1690903608 8172444 5876e0227ca9cafdc1f9d7a920594ea8 ""
   "c:/texlive/2023/texmf.cnf" 1690903356 713 e69b156964470283e0530f5060668171 ""
-  "sample.aux" 1697712198 971 0bbf2ec17ea16b104a88748cdbedc358 "pdflatex"
+  "sample.aux" 1697712241 971 0bbf2ec17ea16b104a88748cdbedc358 "pdflatex"
   "sample.figure.eps" 0 -1 0 ""
-  "sample.out" 1697712198 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "sample.out" 1697712241 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "sample.tex" 1697117844 3511 5e8ca15980f131f5882929aefc581b75 ""
   (generated)
   "sample.aux"
