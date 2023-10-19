@@ -1,11 +1,11 @@
 # Fdb version 4
 ["xdvipdfmx"] 0 "sample.xdv" "sample.pdf" "sample" 0 -1
-  "sample.xdv" 1692764498 26112 b6a5526e470538184bbf3d99e11f802d "xelatex"
+  "sample.xdv" 1697118025 26112 32296cabfb9dbce307d1c52e696384a3 "xelatex"
   (generated)
   "sample.pdf"
   (rewritten before read)
-["xelatex"] 1692764494 "c:/Users/moonw/Documents/Digital Humanities/sample.tex" "sample.xdv" "sample" 1692764499 2
-  "c:/Users/moonw/Documents/Digital Humanities/sample.tex" 1692693127 3452 13482c5f8fb44f86aefc4384606f661e ""
+["xelatex"] 1697117984 "c:/Users/moonw/Documents/Digital Humanities/sample.tex" "sample.xdv" "sample" 1697118027 2
+  "c:/Users/moonw/Documents/Digital Humanities/sample.tex" 1697117844 3511 5e8ca15980f131f5882929aefc581b75 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1690896291 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1690903303 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1690894642 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -58,10 +58,10 @@
   "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1690893029 40967 d940221f8762fd5848760382d97d1226 ""
   "c:/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1690903630 10795240 c5afa5929371afbae7e3630f557875c2 ""
   "c:/texlive/2023/texmf.cnf" 1690903356 713 e69b156964470283e0530f5060668171 ""
-  "sample.aux" 1692764498 937 4181e7b2c9a08d8e0a18be25454abe79 "xelatex"
+  "sample.aux" 1697118025 937 4181e7b2c9a08d8e0a18be25454abe79 "xelatex"
   "sample.figure.eps" 0 -1 0 ""
-  "sample.out" 1692764498 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "sample.tex" 1692693127 3452 13482c5f8fb44f86aefc4384606f661e ""
+  "sample.out" 1697118024 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "sample.tex" 1697117844 3511 5e8ca15980f131f5882929aefc581b75 ""
   (generated)
   "sample.aux"
   "sample.log"
